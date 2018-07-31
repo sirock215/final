@@ -1,5 +1,7 @@
 img {
-    float: right;
+    border-radius: 25%;
+    padding: 80px;
+    float: left;
 }
 h1{
     font-size: 100px;
@@ -7,10 +9,26 @@ h1{
     text-align: center;
     color: rgb(194, 23, 23);
 }
+#c1{
+    padding: 1px;
+    font-size: 100px;
+    text-align: center;
+    color: rgb(194, 23, 23);
+}
+h2{
+    color: rgb(194, 23, 23);
+    text-align: center;
+}
 p{
     font-size: 50px;
     text-align: center;
     color:rgb(194, 23, 23);
+}
+#p1{
+    position: absolute;
+    left: 600px;
+    padding: 30px;
+    font-size: 30px;
 }
 #tm {
     font-family: 'Montserrat', sans-serif;
